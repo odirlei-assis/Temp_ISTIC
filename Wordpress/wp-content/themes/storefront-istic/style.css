@@ -1,0 +1,115 @@
+/*
+ Theme Name:   Storefront ISTIC
+ Theme URI:    
+ Description:  Storefront ISTIC Theme
+ Author:       Senai
+ Author URI:   http://istic.senai.io/
+ Template:     storefront
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         e-commerce, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, featured-images, full-width-template, threaded-comments, accessibility-ready, rtl-language-support, footer-widgets, sticky-post, theme-options, editor-style
+ Text Domain:  storefront
+*/
+
+.flex{
+    display: flex;
+}
+
+.between{
+    justify-content: space-between;
+}
+
+h2{
+    font-size: 28px;
+    color: black;
+}
+
+h3{
+    font-size: 16px;
+}
+
+p{
+    margin: 0;
+    font-size: 16px;
+}
+
+span{
+    margin: 0 5px;
+}
+
+.col-full {
+    max-width: 66.4989378333em;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 2.617924em;
+    box-sizing: content-box; 
+}
+
+
+
+/* --cabeçalho-- */
+#masthead{
+    margin: auto;
+}
+
+.storefront-primary-navigation{
+    background-color: #2E3192;
+    padding: 0;
+}
+
+.site-header .site-branding img{
+    max-width: 103px;
+}
+
+
+/* --home-- */
+#post-44{
+    margin: 0;
+}
+
+#main{
+    margin: 0;
+}
+
+#primary{
+    margin: 0;
+}
+
+.edit-link{
+    display: none;
+}
+
+
+
+/* --footer-- */
+.site-footer a{
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.footer_m{
+    padding: 0 40px;    
+}
+
+.site-footer {
+    padding: 10px;
+}
+
+.uagb-columns__inner-wrap {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.uagb-block-c07be1a0-8139-47ad-a1a0-aac558b9f5f6 .uagb-column__inner-wrap{
+    padding: 0 !important;
+    margin-top: 10px;
+}
+
+.wp-block-buttons .wp-block-button{
+    width: 186px;
+    height: 40px;
+    margin-top: 20px;
+}
