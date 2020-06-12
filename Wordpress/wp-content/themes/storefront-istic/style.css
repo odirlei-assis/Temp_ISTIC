@@ -39,23 +39,30 @@ span{
 }
 
 .col-full {
-    max-width: 66.4989378333em;
+    max-width: 100%;
     margin-right: auto;
     margin-left: auto;
-    padding: 0 2.617924em;
+    padding: 0;
     box-sizing: content-box; 
 }
 
 
 
 /* --cabeçalho-- */
-#masthead{
-    margin: auto;
+.site-branding{
+    /* margin: auto; */
+    padding: 0 280px;
+    width: 50%;
+}
+
+.site-search{
+    margin-right: 280px;
+    width: 60%;
 }
 
 .storefront-primary-navigation{
     background-color: #2E3192;
-    padding: 0;
+    padding: 0 280px;
 }
 
 .site-header .site-branding img{

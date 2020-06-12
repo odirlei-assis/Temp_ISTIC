@@ -18,7 +18,7 @@
 
 
 		<div class="col-full">
-			<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color uagb-block-48ee7445-554b-4b10-9bed-36e1a38fdb9b">
+			<!-- <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color uagb-block-48ee7445-554b-4b10-9bed-36e1a38fdb9b">
 				<div class="uagb-section__overlay"></div>
 				<div class="uagb-section__inner-wrap">
 					<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color uagb-block-35e37437-8df4-4a5b-ab4f-188c3ae8010c">
@@ -176,7 +176,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 			<div class="flex between footer_m">
 				<span>© 2020 Todo Sports. Todos os direitos reservados.</span>
